@@ -1,0 +1,4 @@
+./yolov3/yolov3/yolov3.weights
+./yolov5/ncnn-android-yolov5/app/src/main/jni/ncnn-android-vulkan-lib/
+./yolov4/tensorflow-yolov4-tflite/android/app/build/
+./yolov5/ncnn-android-yolov5/app/build/

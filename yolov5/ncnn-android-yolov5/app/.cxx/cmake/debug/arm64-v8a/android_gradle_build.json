@@ -1,0 +1,78 @@
+
+{
+	"buildFiles" : [ "C:/Users/reneg/ncnn-android-yolov5/app/src/main/jni/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\reneg\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\reneg\\ncnn-android-yolov5\\app\\.cxx\\cmake\\debug\\arm64-v8a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"OGLCompiler-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "OGLCompiler",
+			"buildType" : "debug",
+			"output" : "C:/Users/reneg/ncnn-android-yolov5/app/src/main/jni/ncnn-android-vulkan-lib/arm64-v8a/libOGLCompiler.a",
+			"toolchain" : "150777625"
+		},
+		"OSDependent-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "OSDependent",
+			"buildType" : "debug",
+			"output" : "C:/Users/reneg/ncnn-android-yolov5/app/src/main/jni/ncnn-android-vulkan-lib/arm64-v8a/libOSDependent.a",
+			"toolchain" : "150777625"
+		},
+		"SPIRV-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "SPIRV",
+			"buildType" : "debug",
+			"output" : "C:/Users/reneg/ncnn-android-yolov5/app/src/main/jni/ncnn-android-vulkan-lib/arm64-v8a/libSPIRV.a",
+			"toolchain" : "150777625"
+		},
+		"glslang-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "glslang",
+			"buildType" : "debug",
+			"output" : "C:/Users/reneg/ncnn-android-yolov5/app/src/main/jni/ncnn-android-vulkan-lib/arm64-v8a/libglslang.a",
+			"toolchain" : "150777625"
+		},
+		"ncnn-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "ncnn",
+			"buildType" : "debug",
+			"output" : "C:/Users/reneg/ncnn-android-yolov5/app/src/main/jni/ncnn-android-vulkan-lib/arm64-v8a/libncnn.a",
+			"toolchain" : "150777625"
+		},
+		"yolov5ncnn-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "yolov5ncnn",
+			"buildCommand" : "C:\\Users\\reneg\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\reneg\\ncnn-android-yolov5\\app\\.cxx\\cmake\\debug\\arm64-v8a --target yolov5ncnn",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android24 --gcc-toolchain=C:/Users/reneg/AppData/Local/Android/Sdk/ndk/22.0.6917172/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/reneg/AppData/Local/Android/Sdk/ndk/22.0.6917172/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyolov5ncnn_EXPORTS -IC:\\Users\\reneg\\ncnn-android-yolov5\\app\\src\\main\\jni\\ncnn-android-vulkan-lib\\include\\ncnn  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fopenmp -fomit-frame-pointer -fstrict-aliasing -ffast-math -fvisibility=hidden -fvisibility-inlines-hidden -fno-rtti -fno-exceptions -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/reneg/ncnn-android-yolov5/app/src/main/jni/yolov5ncnn_jni.cpp",
+					"workingDirectory" : "C:/Users/reneg/ncnn-android-yolov5/app/.cxx/cmake/debug/arm64-v8a"
+				}
+			],
+			"output" : "C:/Users/reneg/ncnn-android-yolov5/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov5ncnn.so",
+			"toolchain" : "150777625"
+		}
+	},
+	"toolchains" : 
+	{
+		"150777625" : 
+		{
+			"cCompilerExecutable" : "C:/Users/reneg/AppData/Local/Android/Sdk/ndk/22.0.6917172/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/reneg/AppData/Local/Android/Sdk/ndk/22.0.6917172/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9754262f-958e-4eee-b238-b34c0e7d0867" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/labelmap.txt" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/assets/labelmap.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/yolov4-416-fp32.tflite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/org/tensorflow/lite/examples/detection/DetectorActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/java/org/tensorflow/lite/examples/detection/DetectorActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/org/tensorflow/lite/examples/detection/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/java/org/tensorflow/lite/examples/detection/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/org/tensorflow/lite/examples/detection/tflite/YoloV4Classifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/java/org/tensorflow/lite/examples/detection/tflite/YoloV4Classifier.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lYXgZ9Da4E1sQZae9WNs6DQeHq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/ncnn-android-yolov5" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9754262f-958e-4eee-b238-b34c0e7d0867" name="Default Changelist" comment="" />
+      <created>1607775109702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607775109702</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="732" y="322" key="FileChooserDialogImpl" timestamp="1607775202891">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="732" y="322" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607775202891" />
+    <state x="453" y="212" key="SettingsEditor" timestamp="1607775182297">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="453" y="212" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607775182297" />
+  </component>
+</project>

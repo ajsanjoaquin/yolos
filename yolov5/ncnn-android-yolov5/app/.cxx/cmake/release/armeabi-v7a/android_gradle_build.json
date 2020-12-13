@@ -1,0 +1,78 @@
+
+{
+	"buildFiles" : [ "C:/Users/reneg/ncnn-android-yolov5/app/src/main/jni/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\reneg\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\reneg\\ncnn-android-yolov5\\app\\.cxx\\cmake\\release\\armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"OGLCompiler-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "OGLCompiler",
+			"buildType" : "release",
+			"output" : "C:/Users/reneg/ncnn-android-yolov5/app/src/main/jni/ncnn-android-vulkan-lib/armeabi-v7a/libOGLCompiler.a",
+			"toolchain" : "150777625"
+		},
+		"OSDependent-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "OSDependent",
+			"buildType" : "release",
+			"output" : "C:/Users/reneg/ncnn-android-yolov5/app/src/main/jni/ncnn-android-vulkan-lib/armeabi-v7a/libOSDependent.a",
+			"toolchain" : "150777625"
+		},
+		"SPIRV-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "SPIRV",
+			"buildType" : "release",
+			"output" : "C:/Users/reneg/ncnn-android-yolov5/app/src/main/jni/ncnn-android-vulkan-lib/armeabi-v7a/libSPIRV.a",
+			"toolchain" : "150777625"
+		},
+		"glslang-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "glslang",
+			"buildType" : "release",
+			"output" : "C:/Users/reneg/ncnn-android-yolov5/app/src/main/jni/ncnn-android-vulkan-lib/armeabi-v7a/libglslang.a",
+			"toolchain" : "150777625"
+		},
+		"ncnn-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "ncnn",
+			"buildType" : "release",
+			"output" : "C:/Users/reneg/ncnn-android-yolov5/app/src/main/jni/ncnn-android-vulkan-lib/armeabi-v7a/libncnn.a",
+			"toolchain" : "150777625"
+		},
+		"yolov5ncnn-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "yolov5ncnn",
+			"buildCommand" : "C:\\Users\\reneg\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\reneg\\ncnn-android-yolov5\\app\\.cxx\\cmake\\release\\armeabi-v7a --target yolov5ncnn",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi24 --gcc-toolchain=C:/Users/reneg/AppData/Local/Android/Sdk/ndk/22.0.6917172/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/reneg/AppData/Local/Android/Sdk/ndk/22.0.6917172/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyolov5ncnn_EXPORTS -IC:\\Users\\reneg\\ncnn-android-yolov5\\app\\src\\main\\jni\\ncnn-android-vulkan-lib\\include\\ncnn  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fopenmp -fomit-frame-pointer -fstrict-aliasing -ffast-math -fvisibility=hidden -fvisibility-inlines-hidden -fno-rtti -fno-exceptions -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/reneg/ncnn-android-yolov5/app/src/main/jni/yolov5ncnn_jni.cpp",
+					"workingDirectory" : "C:/Users/reneg/ncnn-android-yolov5/app/.cxx/cmake/release/armeabi-v7a"
+				}
+			],
+			"output" : "C:/Users/reneg/ncnn-android-yolov5/app/build/intermediates/cmake/release/obj/armeabi-v7a/libyolov5ncnn.so",
+			"toolchain" : "150777625"
+		}
+	},
+	"toolchains" : 
+	{
+		"150777625" : 
+		{
+			"cCompilerExecutable" : "C:/Users/reneg/AppData/Local/Android/Sdk/ndk/22.0.6917172/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/reneg/AppData/Local/Android/Sdk/ndk/22.0.6917172/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

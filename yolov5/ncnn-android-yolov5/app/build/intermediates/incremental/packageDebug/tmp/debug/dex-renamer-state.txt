@@ -1,0 +1,4 @@
+#Sat Dec 12 20:33:06 CST 2020
+base.0=C\:\\Users\\reneg\\ncnn-android-yolov5\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

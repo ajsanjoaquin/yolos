@@ -1,0 +1,41 @@
+{
+  "buildFiles": [
+    "C:\\Users\\reneg\\ncnn-android-yolov5\\app\\src\\main\\jni\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\reneg\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\reneg\\ncnn-android-yolov5\\app\\.cxx\\cmake\\release\\arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "yolov5ncnn-Release-arm64-v8a": {
+      "artifactName": "yolov5ncnn",
+      "buildCommand": "C:\\Users\\reneg\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\reneg\\ncnn-android-yolov5\\app\\.cxx\\cmake\\release\\arm64-v8a --target yolov5ncnn",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\reneg\\ncnn-android-yolov5\\app\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libyolov5ncnn.so"
+    },
+    "OSDependent-Release-arm64-v8a": {
+      "artifactName": "OSDependent",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\reneg\\ncnn-android-yolov5\\app\\src\\main\\jni\\ncnn-android-vulkan-lib\\arm64-v8a\\libOSDependent.a"
+    },
+    "glslang-Release-arm64-v8a": {
+      "artifactName": "glslang",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\reneg\\ncnn-android-yolov5\\app\\src\\main\\jni\\ncnn-android-vulkan-lib\\arm64-v8a\\libglslang.a"
+    },
+    "OGLCompiler-Release-arm64-v8a": {
+      "artifactName": "OGLCompiler",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\reneg\\ncnn-android-yolov5\\app\\src\\main\\jni\\ncnn-android-vulkan-lib\\arm64-v8a\\libOGLCompiler.a"
+    },
+    "ncnn-Release-arm64-v8a": {
+      "artifactName": "ncnn",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\reneg\\ncnn-android-yolov5\\app\\src\\main\\jni\\ncnn-android-vulkan-lib\\arm64-v8a\\libncnn.a"
+    },
+    "SPIRV-Release-arm64-v8a": {
+      "artifactName": "SPIRV",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\reneg\\ncnn-android-yolov5\\app\\src\\main\\jni\\ncnn-android-vulkan-lib\\arm64-v8a\\libSPIRV.a"
+    }
+  }
+}
